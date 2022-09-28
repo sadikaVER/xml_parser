@@ -24,4 +24,9 @@ The solution is using following python modules:
 * xml.etree
 
 
+## Drive Link
+---------------
+To access intermediate files refer link below:
+https://drive.google.com/drive/folders/1ZIAXxiz_rdZ3ucmuNYL2EtXv7kLyXOrP?usp=sharing
+
 

@@ -18,11 +18,10 @@ The solution is using following python modules:
 * os
 * boto3
 * pandas
-* zipfile
+* shutil
 * logging
-* unittest
 * requests
 * xml.etree
-* configparser
+
 
 

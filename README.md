@@ -1,9 +1,9 @@
-# SteelEyeAssignment
+# SteelEye Assignment
 --------------------
 
 The repository consist of the solution for SteelEye Python Developer Assignment.
 The solution is written in Python 3 language and requires some additional libraries to be installed.
-Have parsed the xml file and result is stored in amazon s3
+Have parsed the xml files from the links given in source file and result is stored in amazon s3
 
 ## Table of contents
 --------------------
